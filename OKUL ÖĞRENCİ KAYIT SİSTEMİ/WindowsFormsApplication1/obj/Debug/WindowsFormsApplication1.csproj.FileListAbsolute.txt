@@ -1,0 +1,65 @@
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yönetici\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\kullanıcı girişli 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\kullanıcı girişli 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\DERS NOTLARI\c#\karışık\projelr\SİNEMA SİSTEMİ\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\DERS NOTLARI\c#\karışık\projelr\SİNEMA SİSTEMİ\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+G:\DERS NOTLARI\c#\karışık\projelr\SİNEMA SİSTEMİ\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\DERS NOTLARI\c#\karışık\projelr\SİNEMA SİSTEMİ\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\DERS NOTLARI\c#\karışık\projelr\SİNEMA SİSTEMİ\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mertcan\Desktop\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mertcan\Desktop\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+C:\Users\mertcan\Desktop\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\mertcan\Desktop\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mertcan\Desktop\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\KOD VAR\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\KOD VAR\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\Interop.ADOX.dll
+G:\KOD VAR\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\KOD VAR\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\KOD VAR\OKUL ÖĞRENCİ KAYIT SİSTEMİ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
